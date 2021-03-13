@@ -36,5 +36,4 @@ const updateParking = async () => {
         );
     }
 };
-
 exports.updateParking = updateParking;
